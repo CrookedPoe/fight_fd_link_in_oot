@@ -1,0 +1,10 @@
+// En_Torch2 : 0x00ED3810
+
+0022F700
+8022F8BC : Current Animation
+
+0x0368
+0x1A00
+
+0x0058 : Hierarchy Pointer (Hi)
+0x0068 : Hierarchy Pointer (Lo)

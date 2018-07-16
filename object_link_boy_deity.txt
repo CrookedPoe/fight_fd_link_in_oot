@@ -1,0 +1,23 @@
+060049E0 : Waist
+06004C50 : Right Thigh
+06004F48 : Right Shin
+06005190 : Right Foot
+060052A0 : Left Thigh
+060055D0 : Left Shin
+06005818 : Left Foot
+06005928 : Hat
+06005A78 : Head
+060060E8 : Blank Octahedron
+06006148 : Torso
+06006370 : Blank Octahedron
+06006410 : Right Shoulder
+060065E0 : Right Forearm
+060067D8 : Right Hand
+06006A58 : Left Shoulder
+06006C38 : Left Forearm
+06006EB8 : Left Hand
+06007820 : Outstretched Left Hand (for holding bottles)
+06007A50 : Bottle Filling
+06007AD0 : Empty Bottle
+06007F28 : Double Helix Sword
+060080F0 : Left Hand + Double Helix Sword
